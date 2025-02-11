@@ -22,7 +22,6 @@ public class DualCounter {
 		preProtocol();
 		temp = syncCounter;
 		temp ++ ;
-		Thread.yield();
 		syncCounter = temp;
 		postProtocol();
 	}
