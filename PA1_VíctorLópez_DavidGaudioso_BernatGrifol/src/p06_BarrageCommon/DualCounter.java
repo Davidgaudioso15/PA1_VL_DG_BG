@@ -2,8 +2,6 @@ package p06_BarrageCommon;
 
 import java.util.concurrent.Semaphore;
 
-
-
 public class DualCounter {
 	public volatile int syncCounter = 0;
 	public volatile int unsyncCounter = 0;
