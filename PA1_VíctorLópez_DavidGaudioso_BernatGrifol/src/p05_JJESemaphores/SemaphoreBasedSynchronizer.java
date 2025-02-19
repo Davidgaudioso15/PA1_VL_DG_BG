@@ -2,6 +2,7 @@ package p05_JJESemaphores;
 
 import p03_JJECommon.*;
 import java.util.concurrent.*;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class SemaphoreBasedSynchronizer implements Synchronizer {
     private final Semaphore jumpSemaphore = new Semaphore(1);
@@ -13,6 +14,9 @@ public class SemaphoreBasedSynchronizer implements Synchronizer {
     private volatile int requiredJives = 0;
     private volatile int jivesCompleted = 0;
 
+
+    private volatile int secondJumpThreadId = -1;
+
     @Override
     public void letMeJump(int id) {
         try {
@@ -20,6 +24,16 @@ public class SemaphoreBasedSynchronizer implements Synchronizer {
         } catch (InterruptedException e) {
             Thread.currentThread().interrupt();
         }
+
+        /*
+        jumpSemaphore.acquireUninterruptibly();
+        while (secondJumpThreadId == id) { // Esperar hasta que el último TIC sea diferente
+            jumpSemaphore.release();
+            Thread.yield();
+            jumpSemaphore.acquireUninterruptibly();
+        }
+        secondJumpThreadId = id;
+         */
     }
 
     @Override
