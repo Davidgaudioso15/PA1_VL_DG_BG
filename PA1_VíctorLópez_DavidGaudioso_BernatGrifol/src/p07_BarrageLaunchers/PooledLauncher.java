@@ -40,7 +40,9 @@ public class PooledLauncher {
 		while (!executor.isTerminated()) {
 			Thread.onSpinWait();
 		}
-		while (counter.getSyncCount()!=NUM_TASKS) {Thread.onSpinWait();}
+		while (counter.getSyncCount()!=NUM_TASKS) {
+			Thread.onSpinWait();
+		}
 		
 		end = Instant.now();
 		elapsedTime = Duration.between(start, end);
