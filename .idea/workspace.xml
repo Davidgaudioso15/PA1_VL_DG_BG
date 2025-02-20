@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4fba531-4e97-44ae-8be5-9524387518c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p04_JJECompareAndSet/CSBasedSynchronizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p04_JJECompareAndSet/CSBasedSynchronizer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p04_JJECompareAndSet/CSLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p04_JJECompareAndSet/CSLauncher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p05_JJESemaphores/SemaphoreBasedSynchronizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p05_JJESemaphores/SemaphoreBasedSynchronizer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p05_JJESemaphores/SemaphoreLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p05_JJESemaphores/SemaphoreLauncher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p06_BarrageCommon/DualCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p06_BarrageCommon/DualCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p06_BarrageCommon/IncrementTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p06_BarrageCommon/IncrementTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p07_BarrageLaunchers/NonPooledLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p07_BarrageLaunchers/NonPooledLauncher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p07_BarrageLaunchers/PooledLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/bin/p07_BarrageLaunchers/PooledLauncher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/src/p04_JJECompareAndSet/CSBasedSynchronizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/src/p04_JJECompareAndSet/CSBasedSynchronizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/src/p05_JJESemaphores/SemaphoreBasedSynchronizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/src/p05_JJESemaphores/SemaphoreBasedSynchronizer.java" afterDir="false" />
     </list>
-    <list id="b9e4f807-35fc-48d7-846f-f8f6ccfce38f" name="Changes by victo" comment="">
-      <change beforePath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/src/p04_JJECompareAndSet/CSBasedSynchronizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/src/p04_JJECompareAndSet/CSBasedSynchronizer.java" afterDir="false" />
-    </list>
+    <list id="b9e4f807-35fc-48d7-846f-f8f6ccfce38f" name="Changes by victo" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,21 +15,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/PA1_VíctorLópez_DavidGaudioso_BernatGrifol/src/p04_JJECompareAndSet/CSBasedSynchronizer.java">
-      <ranges>
-        <range start1="2" end1="3" start2="2" end2="2" changelist="b9e4f807-35fc-48d7-846f-f8f6ccfce38f" />
-        <range start1="4" end1="4" start2="3" end2="4" changelist="f4fba531-4e97-44ae-8be5-9524387518c5" />
-        <range start1="6" end1="12" start2="6" end2="20" changelist="b9e4f807-35fc-48d7-846f-f8f6ccfce38f" />
-        <range start1="15" end1="16" start2="23" end2="28" changelist="b9e4f807-35fc-48d7-846f-f8f6ccfce38f" />
-        <range start1="20" end1="33" start2="32" end2="38" changelist="b9e4f807-35fc-48d7-846f-f8f6ccfce38f" />
-        <range start1="38" end1="39" start2="43" end2="48" changelist="b9e4f807-35fc-48d7-846f-f8f6ccfce38f" />
-        <range start1="43" end1="47" start2="52" end2="62" changelist="b9e4f807-35fc-48d7-846f-f8f6ccfce38f" />
-        <range start1="52" end1="57" start2="67" end2="72" changelist="b9e4f807-35fc-48d7-846f-f8f6ccfce38f" />
-        <range start1="61" end1="62" start2="76" end2="79" changelist="b9e4f807-35fc-48d7-846f-f8f6ccfce38f" />
-      </ranges>
-    </file>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -56,6 +28,7 @@
   "keyToString": {
     "Application.CSLauncher.executor": "Debug",
     "Application.ExplicitLockLauncher.executor": "Run",
+    "Application.ImplicitLockLauncher.executor": "Run",
     "Application.NonPooledLauncher.executor": "Run",
     "Application.PooledLauncher.executor": "Run",
     "Application.SemaphoreLauncher.executor": "Run",
@@ -76,7 +49,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SemaphoreLauncher">
+  <component name="RunManager" selected="Application.ImplicitLockLauncher">
     <configuration name="CSLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p04_JJECompareAndSet.CSLauncher" />
       <module name="PA1_VL_DG_BG" />
@@ -96,6 +69,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="p01_ALExplicitLockBased.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitLockLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p02_ALImplicitLockBased.ImplicitLockLauncher" />
+      <module name="PA1_VL_DG_BG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p02_ALImplicitLockBased.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SemaphoreLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p05_JJESemaphores.SemaphoreLauncher" />
-      <module name="PA1_VL_DG_BG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="p05_JJESemaphores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CSLauncher" />
-        <item itemvalue="Application.SemaphoreLauncher" />
+        <item itemvalue="Application.ImplicitLockLauncher" />
         <item itemvalue="Application.PooledLauncher" />
         <item itemvalue="Application.NonPooledLauncher" />
         <item itemvalue="Application.ExplicitLockLauncher" />
+        <item itemvalue="Application.CSLauncher" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +149,7 @@
       <workItem from="1739373233279" duration="4000" />
       <workItem from="1739875197927" duration="292000" />
       <workItem from="1739966350894" duration="4683000" />
+      <workItem from="1740042036219" duration="302000" />
     </task>
     <servers />
   </component>
